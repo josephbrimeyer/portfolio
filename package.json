@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Modern Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josephbrimeyer/portfolio.git"
+  },
+  "author": "Joe Brimeyer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/josephbrimeyer/portfolio/issues"
+  },
+  "homepage": "https://github.com/josephbrimeyer/portfolio#readme",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
