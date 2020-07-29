@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "1.0.0",
   "description": "Modern Portfolio",
-  "main": "index.js",
+  "main": "./develop/index.js",
   "homepage": "https://josephbrimeyer.github.io/portfolio",
   "scripts": {
     "sass": "node-sass -w scss/ -o develop/css/ --recursive"
