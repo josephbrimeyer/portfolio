@@ -14,12 +14,11 @@
   },
   "author": "Joe Brimeyer",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/josephbrimeyer/portfolio/issues"
-  },
-  "homepage": "https://github.com/josephbrimeyer/portfolio#readme",
   "dependencies": {
     "gh-pages": "^3.1.0",
     "node-sass": "^4.14.1"
+  },
+  "bugs": {
+    "url": "https://github.com/josephbrimeyer/portfolio/issues"
   }
 }
