@@ -5,8 +5,7 @@
   "main": "index.js",
   "homepage": "https://josephbrimeyer.github.io/portfolio",
   "scripts": {
-    "sass": "node-sass -w scss/ -o develop/css/ --recursive",
-    "deploy": "gh-pages -d develop"
+    "sass": "node-sass -w scss/ -o develop/css/ --recursive"
   },
   "repository": {
     "type": "git",
