@@ -67,9 +67,9 @@
   transform: translate3d(0, 0, 0);
 }
 .menu-branding .portrait {
-  width: 250px;
-  height: 250px;
-  background: url("../images/portfolio.jpeg");
+  width: 200px;
+  height: 200px;
+  background: url(../images/profile_picture.jpg);
   border-radius: 50%;
   border: solid 3px #eece1a;
 }
@@ -342,7 +342,7 @@ main#home h1 {
     transform: translate3d(100%, 0, 0);
   }
   .menu-branding .portrait {
-    background: url "../images/portfolio_11.jpeg";
+    background: url(../images/profile_picture.jpg);
     width: 150px;
     height: 150px;
   }
@@ -350,7 +350,7 @@ main#home h1 {
     grid-template-areas:
       "bioimage"
       "bio"
-      "job1"
+      "job1" 3
       "job2"
       "job3";
     grid-template-columns: 1fr;
