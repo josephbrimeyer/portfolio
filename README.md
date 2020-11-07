@@ -7,7 +7,7 @@
 
 ## Description
 
-This project is a mobile responsive portfolio that highlights my accompolishments and interests. The application showcases my talents and experiences on my path to a full stack web development career by allowing the user to view my web development projects, my GitHub repositories, my Linkedin profile, and my resume. Portfolio is an application that runs in the browser and and features HTML and CSS.
+This project is a mobile responsive portfolio that highlights my accompolishments and interests. The application showcases my talents and experiences on my path to a full stack web development career by allowing the user to view my web development projects, my GitHub repositories, my Linkedin profile, and my resume. Portfolio is an application that runs in the browser and and features HTML and Sass.
 
 ## Table of Contents
 
