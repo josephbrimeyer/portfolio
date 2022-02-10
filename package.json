@@ -17,7 +17,7 @@
     "gh-pages": "^3.1.0",
     "hosted-git-info": "^4.0.2",
     "lodash": "^4.17.21",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "y18n": "^5.0.8"
   },
   "bugs": {
